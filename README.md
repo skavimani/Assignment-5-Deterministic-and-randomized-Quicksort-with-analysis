@@ -14,7 +14,7 @@ This repository contains a deterministic Quicksort and a randomized Quicksort wr
 | `benchmark.py` | Runs the timing and comparison-count experiments, saves `results/results.csv` |
 | `plot_results.py` | Draws the two charts from the CSV |
 | `results/` | Raw results (`results.csv`, `benchmark_output.txt`) and charts (`.png`) |
-| `Kavimani_Assignment5_Quicksort_Report.docx` / `.pdf` | The full report (implementation, analysis, results, references) |
+| `Kavimani_Assignment5_Quicksort_Report.docx` | The full report (implementation, analysis, results, references) |
 
 ## How to run
 
